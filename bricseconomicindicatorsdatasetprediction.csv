@@ -1,0 +1,251 @@
+SeriesName,SeriesCode,CountryName,CountryCode,Year,Value,CountryCode_encoded,SeriesCode_encoded,Predictions,Absolute_Error
+General government final consumption expenditure (% of GDP),NE.CON.GOVT.ZS,Brazil,BRA,1970.0,11.3246527269795,0,0,10.775954901212602,0.5486978257668973
+General government final consumption expenditure (% of GDP),NE.CON.GOVT.ZS,China,CHN,1970.0,10.9617831337457,1,0,12.611912979644396,1.6501298458986966
+General government final consumption expenditure (% of GDP),NE.CON.GOVT.ZS,India,IND,1970.0,8.94724413435599,2,0,10.111826402300828,1.1645822679448372
+General government final consumption expenditure (% of GDP),NE.CON.GOVT.ZS,Russian Federation,RUS,1970.0,11.396583312650767,3,0,11.327950243909907,0.06863306874086028
+General government final consumption expenditure (% of GDP),NE.CON.GOVT.ZS,South Africa,ZAF,1970.0,11.9033140772271,4,0,11.295367651253308,0.6079464259737914
+General government final consumption expenditure (% of GDP),NE.CON.GOVT.ZS,Brazil,BRA,1971.0,11.0226400454096,0,0,10.488926550077004,0.5337134953325968
+General government final consumption expenditure (% of GDP),NE.CON.GOVT.ZS,China,CHN,1971.0,11.8443026252595,1,0,12.23073411630491,0.3864314910454105
+General government final consumption expenditure (% of GDP),NE.CON.GOVT.ZS,India,IND,1971.0,9.67379314373021,2,0,9.860549110122605,0.18675596639239522
+General government final consumption expenditure (% of GDP),NE.CON.GOVT.ZS,Russian Federation,RUS,1971.0,11.924498550494867,3,0,11.314192930046215,0.6103056204486528
+General government final consumption expenditure (% of GDP),NE.CON.GOVT.ZS,South Africa,ZAF,1971.0,12.9065529808155,4,0,11.510315046645529,1.3962379341699709
+General government final consumption expenditure (% of GDP),NE.CON.GOVT.ZS,Brazil,BRA,1972.0,10.7529260267313,0,0,10.30328812795883,0.44963789877247073
+General government final consumption expenditure (% of GDP),NE.CON.GOVT.ZS,China,CHN,1972.0,12.0098651661182,1,0,11.939160205118391,0.07070496099980872
+General government final consumption expenditure (% of GDP),NE.CON.GOVT.ZS,India,IND,1972.0,9.33421495863531,2,0,9.685776699075205,0.3515617404398963
+General government final consumption expenditure (% of GDP),NE.CON.GOVT.ZS,Russian Federation,RUS,1972.0,11.613666012998001,3,0,11.362525332133515,0.25114068086448604
+General government final consumption expenditure (% of GDP),NE.CON.GOVT.ZS,South Africa,ZAF,1972.0,12.0782068461445,4,0,11.771621898651224,0.3065849474932758
+General government final consumption expenditure (% of GDP),NE.CON.GOVT.ZS,Brazil,BRA,1973.0,10.4453941865911,0,0,10.209961220934996,0.23543296565610383
+General government final consumption expenditure (% of GDP),NE.CON.GOVT.ZS,China,CHN,1973.0,11.4792406175169,1,0,11.72867057515267,0.24942995763576903
+General government final consumption expenditure (% of GDP),NE.CON.GOVT.ZS,India,IND,1973.0,8.40736153328718,2,0,9.579546241217379,1.1721847079301995
+General government final consumption expenditure (% of GDP),NE.CON.GOVT.ZS,Russian Federation,RUS,1973.0,11.012097484300966,3,0,11.465542265221483,0.4534447809205169
+General government final consumption expenditure (% of GDP),NE.CON.GOVT.ZS,South Africa,ZAF,1973.0,11.1116576487949,4,0,12.072440765310994,0.9607831165160938
+General government final consumption expenditure (% of GDP),NE.CON.GOVT.ZS,Brazil,BRA,1974.0,9.74323820334986,0,0,10.200207042226793,0.45696883887693396
+General government final consumption expenditure (% of GDP),NE.CON.GOVT.ZS,China,CHN,1974.0,12.0489331470807,1,0,11.591084182619955,0.4578489644607444
+General government final consumption expenditure (% of GDP),NE.CON.GOVT.ZS,India,IND,1974.0,8.64064088352269,2,0,9.534234435752252,0.8935935522295608
+General government final consumption expenditure (% of GDP),NE.CON.GOVT.ZS,Russian Federation,RUS,1974.0,11.075865726699552,3,0,11.616178171504153,0.5403124448046004
+General government final consumption expenditure (% of GDP),NE.CON.GOVT.ZS,South Africa,ZAF,1974.0,11.4354258296681,4,0,12.406263831809785,0.9708380021416847
+General government final consumption expenditure (% of GDP),NE.CON.GOVT.ZS,Brazil,BRA,1975.0,10.6375240633368,0,0,10.265626432199861,0.37189763113693886
+General government final consumption expenditure (% of GDP),NE.CON.GOVT.ZS,China,CHN,1975.0,11.7039685441684,1,0,11.518559610876807,0.18540893329159402
+General government final consumption expenditure (% of GDP),NE.CON.GOVT.ZS,India,IND,1975.0,9.48765621556164,2,0,9.5425576090273,0.054901393465659254
+General government final consumption expenditure (% of GDP),NE.CON.GOVT.ZS,Russian Federation,RUS,1975.0,11.737710336516267,3,0,11.80770712031992,0.06999678380365282
+General government final consumption expenditure (% of GDP),NE.CON.GOVT.ZS,South Africa,ZAF,1975.0,12.8716384020436,4,0,12.766922910476918,0.10471549156668125
+General government final consumption expenditure (% of GDP),NE.CON.GOVT.ZS,Brazil,BRA,1976.0,10.5208152880654,0,0,10.39815985836421,0.12265542970119014
+General government final consumption expenditure (% of GDP),NE.CON.GOVT.ZS,China,CHN,1976.0,12.6718289433179,1,0,11.503595070424153,1.1682338728937474
+General government final consumption expenditure (% of GDP),NE.CON.GOVT.ZS,India,IND,1976.0,9.77975331556801,2,0,9.597571714534368,0.18218160103364234
+General government final consumption expenditure (% of GDP),NE.CON.GOVT.ZS,Russian Federation,RUS,1976.0,12.2571520022694,3,0,12.033742808151553,0.22340919411784732
+General government final consumption expenditure (% of GDP),NE.CON.GOVT.ZS,South Africa,ZAF,1976.0,13.5788117754249,4,0,13.148589440786068,0.43022233463883097
+General government final consumption expenditure (% of GDP),NE.CON.GOVT.ZS,Brazil,BRA,1977.0,9.43555428163941,0,0,10.590087415374207,1.1545331337347964
+General government final consumption expenditure (% of GDP),NE.CON.GOVT.ZS,China,CHN,1977.0,12.5392949261538,1,0,11.539028398907277,1.0002665272465237
+General government final consumption expenditure (% of GDP),NE.CON.GOVT.ZS,India,IND,1977.0,9.20977194148687,2,0,9.69267233290966,0.48290039142279007
+General government final consumption expenditure (% of GDP),NE.CON.GOVT.ZS,Russian Federation,RUS,1977.0,11.674907773405037,3,0,12.288238558626169,0.613330785221132
+General government final consumption expenditure (% of GDP),NE.CON.GOVT.ZS,South Africa,ZAF,1977.0,13.0498741124219,4,0,13.545774489355274,0.4959003769333741
+General government final consumption expenditure (% of GDP),NE.CON.GOVT.ZS,Brazil,BRA,1978.0,9.6553512684355,0,0,10.834028825028586,1.1786775565930867
+General government final consumption expenditure (% of GDP),NE.CON.GOVT.ZS,China,CHN,1978.0,12.8990685920316,1,0,11.618037061115835,1.2810315309157652
+General government final consumption expenditure (% of GDP),NE.CON.GOVT.ZS,India,IND,1978.0,9.43960862146001,2,0,9.821594671933749,0.38198605047373846
+General government final consumption expenditure (% of GDP),NE.CON.GOVT.ZS,Russian Federation,RUS,1978.0,12.120818561531435,3,0,12.565487322515256,0.4446687609838218
+General government final consumption expenditure (% of GDP),NE.CON.GOVT.ZS,South Africa,ZAF,1978.0,13.8080358241272,4,0,13.953328749946946,0.14529292581974573
+General government final consumption expenditure (% of GDP),NE.CON.GOVT.ZS,Brazil,BRA,1979.0,9.7406333301681,0,0,11.122943436270447,1.3823101061023468
+General government final consumption expenditure (% of GDP),NE.CON.GOVT.ZS,China,CHN,1979.0,13.7794437266086,1,0,11.734138148983835,2.045305577624765
+General government final consumption expenditure (% of GDP),NE.CON.GOVT.ZS,India,IND,1979.0,9.8947320247667,2,0,9.978413566531557,0.08368154176485731
+General government final consumption expenditure (% of GDP),NE.CON.GOVT.ZS,Russian Federation,RUS,1979.0,12.4232817614625,3,0,12.86012167773466,0.43683991627216123
+General government final consumption expenditure (% of GDP),NE.CON.GOVT.ZS,South Africa,ZAF,1979.0,13.7497682276108,4,0,14.366442543467844,0.6166743158570434
+General government final consumption expenditure (% of GDP),NE.CON.GOVT.ZS,Brazil,BRA,1980.0,9.19810304233671,0,0,11.450130225187243,2.252027182850533
+General government final consumption expenditure (% of GDP),NE.CON.GOVT.ZS,China,CHN,1980.0,13.7500425366324,1,0,11.881188381589652,1.8688541550427473
+General government final consumption expenditure (% of GDP),NE.CON.GOVT.ZS,India,IND,1980.0,9.65188060851665,2,0,10.157543478772384,0.5056628702557333
+General government final consumption expenditure (% of GDP),NE.CON.GOVT.ZS,Russian Federation,RUS,1980.0,11.97206965235717,3,0,13.167113829344592,1.1950441769874214
+General government final consumption expenditure (% of GDP),NE.CON.GOVT.ZS,South Africa,ZAF,1980.0,12.9680633781024,4,0,14.780645817969095,1.812582439866695
+General government final consumption expenditure (% of GDP),NE.CON.GOVT.ZS,Brazil,BRA,1981.0,9.31844600809667,0,0,11.809227795010793,2.4907817869141233
+General government final consumption expenditure (% of GDP),NE.CON.GOVT.ZS,China,CHN,1981.0,13.182561754987,1,0,12.053384105156026,1.1291776498309751
+General government final consumption expenditure (% of GDP),NE.CON.GOVT.ZS,India,IND,1981.0,9.62616589253244,2,0,10.353738497869879,0.7275726053374392
+General government final consumption expenditure (% of GDP),NE.CON.GOVT.ZS,Russian Federation,RUS,1981.0,13.2,3,0,13.481775609549622,1.4183471332165656
+General government final consumption expenditure (% of GDP),NE.CON.GOVT.ZS,South Africa,ZAF,1981.0,13.6892776659155,4,0,15.191808148646189,1.5025304827306893
+General government final consumption expenditure (% of GDP),NE.CON.GOVT.ZS,Brazil,BRA,1982.0,10.005735337213,0,0,12.19421437611728,2.18847903890428
+General government final consumption expenditure (% of GDP),NE.CON.GOVT.ZS,China,CHN,1982.0,13.2082189248271,1,0,12.245261293050056,0.9629576317770443
+General government final consumption expenditure (% of GDP),NE.CON.GOVT.ZS,India,IND,1982.0,10.1725727813013,2,0,10.562092340182062,0.38951955888076206
+General government final consumption expenditure (% of GDP),NE.CON.GOVT.ZS,Russian Federation,RUS,1982.0,13.955747,3,0,13.799758477698688,0.9357065269923215
+General government final consumption expenditure (% of GDP),NE.CON.GOVT.ZS,South Africa,ZAF,1982.0,15.378201590079,4,0,15.59613873783898,0.2179371477599812
+General government final consumption expenditure (% of GDP),NE.CON.GOVT.ZS,Brazil,BRA,1983.0,9.66074437458691,0,0,12.599407826027253,2.938663451440343
+General government final consumption expenditure (% of GDP),NE.CON.GOVT.ZS,China,CHN,1983.0,13.9557469027439,1,0,12.451695545783203,1.504051356960698
+General government final consumption expenditure (% of GDP),NE.CON.GOVT.ZS,India,IND,1983.0,10.0911209871836,2,0,10.778038349211315,0.6869173620277138
+General government final consumption expenditure (% of GDP),NE.CON.GOVT.ZS,Russian Federation,RUS,1983.0,15.07855,3,0,14.117053520285086,1.218706374790182
+General government final consumption expenditure (% of GDP),NE.CON.GOVT.ZS,South Africa,ZAF,1983.0,15.0785501591539,4,0,15.99018641503168,0.9116362558777791
+General government final consumption expenditure (% of GDP),NE.CON.GOVT.ZS,Brazil,BRA,1984.0,8.28479429422943,0,0,13.019465629405616,4.734671335176186
+General government final consumption expenditure (% of GDP),NE.CON.GOVT.ZS,China,CHN,1984.0,15.0731319886377,1,0,12.667902091011292,2.4052298976264073
+General government final consumption expenditure (% of GDP),NE.CON.GOVT.ZS,India,IND,1984.0,10.3559108944571,2,0,10.997349495604375,0.641438601147275
+General government final consumption expenditure (% of GDP),NE.CON.GOVT.ZS,Russian Federation,RUS,1984.0,17.087396,3,0,14.429991450946474,1.0514571881094312
+General government final consumption expenditure (% of GDP),NE.CON.GOVT.ZS,South Africa,ZAF,1984.0,16.777676505644,4,0,16.370839636852867,0.4068368687911317
+General government final consumption expenditure (% of GDP),NE.CON.GOVT.ZS,Brazil,BRA,1985.0,9.86933499207352,0,0,13.449384898061634,3.5800499059881137
+General government final consumption expenditure (% of GDP),NE.CON.GOVT.ZS,China,CHN,1985.0,14.2139488900038,1,0,12.889435783534509,1.3245131064692917
+General government final consumption expenditure (% of GDP),NE.CON.GOVT.ZS,India,IND,1985.0,10.9301926339589,2,0,11.216138377152348,0.285945743193448
+General government final consumption expenditure (% of GDP),NE.CON.GOVT.ZS,Russian Federation,RUS,1985.0,15.1,3,0,14.735242610464873,1.011682537618368
+General government final consumption expenditure (% of GDP),NE.CON.GOVT.ZS,South Africa,ZAF,1985.0,17.0873963364622,4,0,16.73532648707548,0.35206984938671937
+General government final consumption expenditure (% of GDP),NE.CON.GOVT.ZS,Brazil,BRA,1986.0,10.6740955006695,0,0,13.884502370948944,3.210406870279444
+General government final consumption expenditure (% of GDP),NE.CON.GOVT.ZS,China,CHN,1986.0,13.8519825742135,1,0,13.112191105297402,0.7397914689160974
+General government final consumption expenditure (% of GDP),NE.CON.GOVT.ZS,India,IND,1986.0,11.5502571077319,2,0,11.430857218790699,0.11939988894120113
+General government final consumption expenditure (% of GDP),NE.CON.GOVT.ZS,Russian Federation,RUS,1986.0,14.113949,3,0,15.02981696676667,1.0130387991815386
+General government final consumption expenditure (% of GDP),NE.CON.GOVT.ZS,South Africa,ZAF,1986.0,17.5242564278724,4,0,17.081214676616824,0.4430417512555742
+General government final consumption expenditure (% of GDP),NE.CON.GOVT.ZS,Brazil,BRA,1987.0,12.1635908857337,0,0,14.320494414165536,2.156903528431835
+General government final consumption expenditure (% of GDP),NE.CON.GOVT.ZS,China,CHN,1987.0,13.1086297701779,1,0,13.332402165388888,0.2237723952109878
+General government final consumption expenditure (% of GDP),NE.CON.GOVT.ZS,India,IND,1987.0,11.9290134215451,2,0,11.63829787259926,0.2907155489458404
+General government final consumption expenditure (% of GDP),NE.CON.GOVT.ZS,Russian Federation,RUS,1987.0,14.5238818759234,3,0,15.311064114922612,0.7871822389992111
+General government final consumption expenditure (% of GDP),NE.CON.GOVT.ZS,South Africa,ZAF,1987.0,18.2994249718586,4,0,17.40641154353856,0.8930134283200388
+General government final consumption expenditure (% of GDP),NE.CON.GOVT.ZS,Brazil,BRA,1988.0,12.5918983628166,0,0,14.75337702095377,2.1614786581371703
+General government final consumption expenditure (% of GDP),NE.CON.GOVT.ZS,China,CHN,1988.0,12.4978745924025,1,0,13.546642700042234,1.0487681076397344
+General government final consumption expenditure (% of GDP),NE.CON.GOVT.ZS,India,IND,1988.0,11.6043602340104,2,0,11.835591817802221,0.2312315837918213
+General government final consumption expenditure (% of GDP),NE.CON.GOVT.ZS,Russian Federation,RUS,1988.0,17.162642710088,3,0,15.576673277147801,1.5859694329401997
+General government final consumption expenditure (% of GDP),NE.CON.GOVT.ZS,South Africa,ZAF,1988.0,17.7839089384003,4,0,17.70916405304671,0.07474488535359214
+General government final consumption expenditure (% of GDP),NE.CON.GOVT.ZS,Brazil,BRA,1989.0,15.4991373289569,0,0,15.179505811700363,0.3196315172565374
+General government final consumption expenditure (% of GDP),NE.CON.GOVT.ZS,China,CHN,1989.0,13.1882621699166,1,0,13.75182607263508,0.5635639027184798
+General government final consumption expenditure (% of GDP),NE.CON.GOVT.ZS,India,IND,1989.0,11.5637622994974,2,0,12.020210160768135,0.45644786127073544
+General government final consumption expenditure (% of GDP),NE.CON.GOVT.ZS,Russian Federation,RUS,1989.0,20.1221640488656,3,0,15.824673302801717,4.2974907460638825
+General government final consumption expenditure (% of GDP),NE.CON.GOVT.ZS,South Africa,ZAF,1989.0,17.7367687486043,4,0,17.988058797491668,0.25129004888736617
+General government final consumption expenditure (% of GDP),NE.CON.GOVT.ZS,Brazil,BRA,1990.0,19.2920567627554,0,0,15.595576033936393,3.696480728819008
+General government final consumption expenditure (% of GDP),NE.CON.GOVT.ZS,China,CHN,1990.0,13.6565211590165,1,0,13.945205273689421,0.28868411467292177
+General government final consumption expenditure (% of GDP),NE.CON.GOVT.ZS,India,IND,1990.0,11.2854919029417,2,0,12.18996363500992,0.9044717320682203
+General government final consumption expenditure (% of GDP),NE.CON.GOVT.ZS,Russian Federation,RUS,1990.0,20.7854703508227,3,0,16.053432668388186,4.7320376824345125
+General government final consumption expenditure (% of GDP),NE.CON.GOVT.ZS,South Africa,ZAF,1990.0,18.5613320355486,4,0,18.242021996368184,0.3193100391804151
+General government final consumption expenditure (% of GDP),NE.CON.GOVT.ZS,Brazil,BRA,1991.0,17.8996782005772,0,0,15.99862256233731,1.9010556382398889
+General government final consumption expenditure (% of GDP),NE.CON.GOVT.ZS,China,CHN,1991.0,14.0016336455952,1,0,14.124372920871622,0.12273927527642137
+General government final consumption expenditure (% of GDP),NE.CON.GOVT.ZS,India,IND,1991.0,11.0787262464783,2,0,12.343002601184851,1.264276354706551
+General government final consumption expenditure (% of GDP),NE.CON.GOVT.ZS,Russian Federation,RUS,1991.0,16.5105470146586,3,0,16.26165947755541,0.24888753710319023
+General government final consumption expenditure (% of GDP),NE.CON.GOVT.ZS,South Africa,ZAF,1991.0,18.6585633099096,4,0,18.47031949631537,0.18824381359423015
+General government final consumption expenditure (% of GDP),NE.CON.GOVT.ZS,Brazil,BRA,1992.0,17.0630311963889,0,0,16.386019898722914,0.6770112976659846
+General government final consumption expenditure (% of GDP),NE.CON.GOVT.ZS,China,CHN,1992.0,14.440663060466,1,0,14.287261258992404,0.1534018014735956
+General government final consumption expenditure (% of GDP),NE.CON.GOVT.ZS,India,IND,1992.0,10.9150464795678,2,0,12.47781704709457,1.5627705675267691
+General government final consumption expenditure (% of GDP),NE.CON.GOVT.ZS,Russian Federation,RUS,1992.0,13.8574434508154,3,0,16.44840146109594,2.5909580102805414
+General government final consumption expenditure (% of GDP),NE.CON.GOVT.ZS,South Africa,ZAF,1992.0,18.9657643664831,4,0,18.672556771116703,0.29320759536639684
+General government final consumption expenditure (% of GDP),NE.CON.GOVT.ZS,Brazil,BRA,1993.0,17.6640194913084,0,0,16.755482172057373,0.9085373192510282
+General government final consumption expenditure (% of GDP),NE.CON.GOVT.ZS,China,CHN,1993.0,14.3527403246155,1,0,14.432142160006851,0.07940183539135148
+General government final consumption expenditure (% of GDP),NE.CON.GOVT.ZS,India,IND,1993.0,11.0026650353957,2,0,12.59323658768508,1.590571552289381
+General government final consumption expenditure (% of GDP),NE.CON.GOVT.ZS,Russian Federation,RUS,1993.0,20.0391817969798,3,0,16.6130459769467,3.4261358200330996
+General government final consumption expenditure (% of GDP),NE.CON.GOVT.ZS,South Africa,ZAF,1993.0,19.6411808131534,4,0,18.84867892170002,0.7925018914533801
+General government final consumption expenditure (% of GDP),NE.CON.GOVT.ZS,Brazil,BRA,1994.0,15.8317941934019,0,0,17.10506313844922,1.273268945047322
+General government final consumption expenditure (% of GDP),NE.CON.GOVT.ZS,China,CHN,1994.0,14.0912364629796,1,0,14.557627123014413,0.4663906600348131
+General government final consumption expenditure (% of GDP),NE.CON.GOVT.ZS,India,IND,1994.0,10.4358134716054,2,0,12.688430465046748,2.2526169934413485
+General government final consumption expenditure (% of GDP),NE.CON.GOVT.ZS,Russian Federation,RUS,1994.0,19.0994678673762,3,0,16.755320010188978,2.344147857187224
+General government final consumption expenditure (% of GDP),NE.CON.GOVT.ZS,South Africa,ZAF,1994.0,19.7985623688872,4,0,18.998970676137525,0.7995916927496758
+General government final consumption expenditure (% of GDP),NE.CON.GOVT.ZS,Brazil,BRA,1995.0,20.9279248587451,0,0,17.433156181151347,3.494768677593754
+General government final consumption expenditure (% of GDP),NE.CON.GOVT.ZS,China,CHN,1995.0,13.3081122995337,1,0,14.6626672742589,1.3545549747252004
+General government final consumption expenditure (% of GDP),NE.CON.GOVT.ZS,India,IND,1995.0,10.5402675186561,2,0,12.762907548414299,2.2226400297581996
+General government final consumption expenditure (% of GDP),NE.CON.GOVT.ZS,Russian Federation,RUS,1995.0,19.0756586824943,3,0,16.875290173048413,2.2003685094458874
+General government final consumption expenditure (% of GDP),NE.CON.GOVT.ZS,South Africa,ZAF,1995.0,18.1176512316669,4,0,19.124056389645773,1.0064051579788718
+General government final consumption expenditure (% of GDP),NE.CON.GOVT.ZS,Brazil,BRA,1996.0,19.7508265161777,0,0,17.73849431056101,2.0123322056166906
+General government final consumption expenditure (% of GDP),NE.CON.GOVT.ZS,China,CHN,1996.0,13.1982274461662,1,0,14.746553367128485,1.5483259209622844
+General government final consumption expenditure (% of GDP),NE.CON.GOVT.ZS,India,IND,1996.0,10.3308896774711,2,0,12.816516334166824,2.4856266566957235
+General government final consumption expenditure (% of GDP),NE.CON.GOVT.ZS,Russian Federation,RUS,1996.0,19.4937298074419,3,0,16.973362704895013,2.520367102546885
+General government final consumption expenditure (% of GDP),NE.CON.GOVT.ZS,South Africa,ZAF,1996.0,19.1452716703618,4,0,19.22490004458569,0.07962837422389057
+General government final consumption expenditure (% of GDP),NE.CON.GOVT.ZS,Brazil,BRA,1997.0,19.5352947982055,0,0,18.02015016421982,1.5151446339856776
+General government final consumption expenditure (% of GDP),NE.CON.GOVT.ZS,China,CHN,1997.0,13.7526369500148,1,0,14.808915782155701,1.056278832140901
+General government final consumption expenditure (% of GDP),NE.CON.GOVT.ZS,India,IND,1997.0,11.0287262031216,2,0,12.849444945827777,1.8207187427061768
+General government final consumption expenditure (% of GDP),NE.CON.GOVT.ZS,Russian Federation,RUS,1997.0,21.0671099511038,3,0,17.050283472243148,4.016826478860651
+General government final consumption expenditure (% of GDP),NE.CON.GOVT.ZS,South Africa,ZAF,1997.0,19.2919528328856,4,0,19.302805250462576,0.010852417576977302
+General government final consumption expenditure (% of GDP),NE.CON.GOVT.ZS,Brazil,BRA,1998.0,20.0705315848897,0,0,18.27753600681377,1.7929955780759315
+General government final consumption expenditure (% of GDP),NE.CON.GOVT.ZS,China,CHN,1998.0,14.9460106754319,1,0,14.849724527017447,0.09628614841445327
+General government final consumption expenditure (% of GDP),NE.CON.GOVT.ZS,India,IND,1998.0,11.9098898139167,2,0,12.86222113406497,0.9523313201482697
+General government final consumption expenditure (% of GDP),NE.CON.GOVT.ZS,Russian Federation,RUS,1998.0,18.732723283908,3,0,17.10713796875155,1.6255853151564494
+General government final consumption expenditure (% of GDP),NE.CON.GOVT.ZS,South Africa,ZAF,1998.0,18.9117687991198,4,0,19.359415243926065,0.44764644480626714
+General government final consumption expenditure (% of GDP),NE.CON.GOVT.ZS,Brazil,BRA,1999.0,19.782690769704,0,0,18.510403730173188,1.2722870395308128
+General government final consumption expenditure (% of GDP),NE.CON.GOVT.ZS,China,CHN,1999.0,16.3656909553237,1,0,14.869289236534982,1.496401718788718
+General government final consumption expenditure (% of GDP),NE.CON.GOVT.ZS,India,IND,1999.0,12.1754896050679,2,0,12.855712276690582,0.6802226716226816
+General government final consumption expenditure (% of GDP),NE.CON.GOVT.ZS,Russian Federation,RUS,1999.0,14.579430997898,3,0,17.145351315223316,2.5659203173253164
+General government final consumption expenditure (% of GDP),NE.CON.GOVT.ZS,South Africa,ZAF,1999.0,18.5808257053284,4,0,19.396712888770175,0.8158871834417738
+General government final consumption expenditure (% of GDP),NE.CON.GOVT.ZS,Brazil,BRA,2000.0,18.7678457444131,0,0,18.71884485327278,0.049000891140320135
+General government final consumption expenditure (% of GDP),NE.CON.GOVT.ZS,China,CHN,2000.0,16.8384298541224,1,0,14.868259172673923,1.9701706814484758
+General government final consumption expenditure (% of GDP),NE.CON.GOVT.ZS,India,IND,2000.0,11.9478354689464,2,0,12.83112537866115,0.8832899097147511
+General government final consumption expenditure (% of GDP),NE.CON.GOVT.ZS,Russian Federation,RUS,2000.0,15.0910673022865,3,0,17.166688259605902,2.0756209573194013
+General government final consumption expenditure (% of GDP),NE.CON.GOVT.ZS,South Africa,ZAF,2000.0,18.3869372434811,4,0,19.41702067593328,1.0300834324521801
+General government final consumption expenditure (% of GDP),NE.CON.GOVT.ZS,Brazil,BRA,2001.0,19.3432950140464,0,0,18.903290522231625,0.44000449181477563
+General government final consumption expenditure (% of GDP),NE.CON.GOVT.ZS,China,CHN,2001.0,16.4134393502671,1,0,14.847623224544265,1.5658161257228365
+General government final consumption expenditure (% of GDP),NE.CON.GOVT.ZS,India,IND,2001.0,11.7614498890899,2,0,12.790007072077579,1.0285571829876794
+General government final consumption expenditure (% of GDP),NE.CON.GOVT.ZS,Russian Federation,RUS,2001.0,16.4352485867408,3,0,17.173253176991125,0.7380045902503234
+General government final consumption expenditure (% of GDP),NE.CON.GOVT.ZS,South Africa,ZAF,2001.0,18.5340641441331,4,0,19.42300072349812,0.8889365793650192
+General government final consumption expenditure (% of GDP),NE.CON.GOVT.ZS,Brazil,BRA,2002.0,19.8096623456372,0,0,19.06451151031314,0.7451508353240612
+General government final consumption expenditure (% of GDP),NE.CON.GOVT.ZS,China,CHN,2002.0,16.0704244133075,1,0,14.808709908400342,1.2617145049071574
+General government final consumption expenditure (% of GDP),NE.CON.GOVT.ZS,India,IND,2002.0,11.3140950693332,2,0,12.734243616185129,1.4201485468519284
+General government final consumption expenditure (% of GDP),NE.CON.GOVT.ZS,Russian Federation,RUS,2002.0,17.9345367249896,3,0,17.167490069615166,0.7670466553744326
+General government final consumption expenditure (% of GDP),NE.CON.GOVT.ZS,South Africa,ZAF,2002.0,18.8051903242104,4,0,19.41765477669179,0.6124644524813903
+General government final consumption expenditure (% of GDP),NE.CON.GOVT.ZS,Brazil,BRA,2003.0,19.0774784933715,0,0,19.20361821792512,0.12613972455361733
+General government final consumption expenditure (% of GDP),NE.CON.GOVT.ZS,China,CHN,2003.0,15.3142093188134,1,0,14.753187367640873,0.5610219511725276
+General government final consumption expenditure (% of GDP),NE.CON.GOVT.ZS,India,IND,2003.0,10.8762099129509,2,0,12.66606089737343,1.7898509844225305
+General government final consumption expenditure (% of GDP),NE.CON.GOVT.ZS,Russian Federation,RUS,2003.0,17.9160971825668,3,0,17.152182566858574,0.7639146157082273
+General government final consumption expenditure (% of GDP),NE.CON.GOVT.ZS,South Africa,ZAF,2003.0,19.0578880435914,4,0,19.404324207885754,0.346436164294353
+General government final consumption expenditure (% of GDP),NE.CON.GOVT.ZS,Brazil,BRA,2004.0,18.4675839197143,0,0,19.32206067261972,0.8544767529054198
+General government final consumption expenditure (% of GDP),NE.CON.GOVT.ZS,China,CHN,2004.0,14.6253423054435,1,0,14.683063372808924,0.05772106736542426
+General government final consumption expenditure (% of GDP),NE.CON.GOVT.ZS,India,IND,2004.0,10.4047023481415,2,0,12.588024429176468,2.1833220810349676
+General government final consumption expenditure (% of GDP),NE.CON.GOVT.ZS,Russian Federation,RUS,2004.0,16.9716779691344,3,0,17.13045392524625,0.15877595611184958
+General government final consumption expenditure (% of GDP),NE.CON.GOVT.ZS,South Africa,ZAF,2004.0,19.1575642530287,4,0,19.386690016595836,0.22912576356713643
+General government final consumption expenditure (% of GDP),NE.CON.GOVT.ZS,Brazil,BRA,2005.0,18.890001423066,0,0,19.421628529093457,0.5316271060274573
+General government final consumption expenditure (% of GDP),NE.CON.GOVT.ZS,China,CHN,2005.0,14.7976625422492,1,0,14.600685321591932,0.19697722065726708
+General government final consumption expenditure (% of GDP),NE.CON.GOVT.ZS,India,IND,2005.0,10.3661401973026,2,0,12.503039352272598,2.1368991549699974
+General government final consumption expenditure (% of GDP),NE.CON.GOVT.ZS,Russian Federation,RUS,2005.0,16.8715389429157,3,0,17.105767028447467,0.23422808553176822
+General government final consumption expenditure (% of GDP),NE.CON.GOVT.ZS,South Africa,ZAF,2005.0,19.4781894691122,4,0,19.368772829482218,0.1094166396299805
+General government final consumption expenditure (% of GDP),NE.CON.GOVT.ZS,Brazil,BRA,2006.0,19.0389169374901,0,0,19.5044510691872,0.4655341316971011
+General government final consumption expenditure (% of GDP),NE.CON.GOVT.ZS,China,CHN,2006.0,14.8205159520298,1,0,14.50874023882169,0.3117757132081085
+General government final consumption expenditure (% of GDP),NE.CON.GOVT.ZS,India,IND,2006.0,9.80247046778886,2,0,12.414350434484529,2.6118799666956694
+General government final consumption expenditure (% of GDP),NE.CON.GOVT.ZS,Russian Federation,RUS,2006.0,17.3881375510667,3,0,17.08192438727585,0.3062131637908472
+General government final consumption expenditure (% of GDP),NE.CON.GOVT.ZS,South Africa,ZAF,2006.0,18.1535283244536,4,0,19.354932900349446,1.2014045758958467
+General government final consumption expenditure (% of GDP),NE.CON.GOVT.ZS,Brazil,BRA,2007.0,18.9429876148938,0,0,19.572997201886206,0.6300095869924078
+General government final consumption expenditure (% of GDP),NE.CON.GOVT.ZS,China,CHN,2007.0,14.6267632117983,1,0,14.410254776474353,0.2165084353239468
+General government final consumption expenditure (% of GDP),NE.CON.GOVT.ZS,India,IND,2007.0,9.86211572844655,2,0,12.325542070779338,2.463426342332788
+General government final consumption expenditure (% of GDP),NE.CON.GOVT.ZS,Russian Federation,RUS,2007.0,17.2975342860179,3,0,17.0630681396894,0.2344661463285007
+General government final consumption expenditure (% of GDP),NE.CON.GOVT.ZS,South Africa,ZAF,2007.0,17.8140148717565,4,0,19.349870110146444,1.5358552383899458
+General government final consumption expenditure (% of GDP),NE.CON.GOVT.ZS,Brazil,BRA,2008.0,18.8393928751789,0,0,19.630075463320065,0.7906825881411663
+General government final consumption expenditure (% of GDP),NE.CON.GOVT.ZS,China,CHN,2008.0,14.4856149693683,1,0,14.30859521367045,0.17701975569784878
+General government final consumption expenditure (% of GDP),NE.CON.GOVT.ZS,India,IND,2008.0,10.5384811563533,2,0,12.240538283268465,1.7020571269151663
+General government final consumption expenditure (% of GDP),NE.CON.GOVT.ZS,Russian Federation,RUS,2008.0,17.830576085536,3,0,17.053680050790465,0.7768960347455334
+General government final consumption expenditure (% of GDP),NE.CON.GOVT.ZS,South Africa,ZAF,2008.0,18.6579250952803,4,0,19.358623966966473,0.7006988716861713
+General government final consumption expenditure (% of GDP),NE.CON.GOVT.ZS,Brazil,BRA,2009.0,19.6506384048096,0,0,19.678834016762746,0.02819561195314435
+General government final consumption expenditure (% of GDP),NE.CON.GOVT.ZS,China,CHN,2009.0,14.7529779816061,1,0,14.20746745667486,0.54551052493124
+General government final consumption expenditure (% of GDP),NE.CON.GOVT.ZS,India,IND,2009.0,11.459667419745,2,0,12.163602721207711,0.7039353014627121
+General government final consumption expenditure (% of GDP),NE.CON.GOVT.ZS,Russian Federation,RUS,2009.0,20.786596659721,3,0,17.058581512825768,3.728015146895231
+General government final consumption expenditure (% of GDP),NE.CON.GOVT.ZS,South Africa,ZAF,2009.0,19.864480154342,4,0,19.386573606047172,0.47790654829482904
+General government final consumption expenditure (% of GDP),NE.CON.GOVT.ZS,Brazil,BRA,2010.0,19.0168578433479,0,0,19.72276065263258,0.7059028092846802
+General government final consumption expenditure (% of GDP),NE.CON.GOVT.ZS,China,CHN,2010.0,14.5870190133779,1,0,14.110917038896828,0.4761019744810717
+General government final consumption expenditure (% of GDP),NE.CON.GOVT.ZS,India,IND,2010.0,11.0076078674643,2,0,12.099338660997235,1.0917307935329355
+General government final consumption expenditure (% of GDP),NE.CON.GOVT.ZS,Russian Federation,RUS,2010.0,18.7250554156762,3,0,17.08293354518639,1.6421218704898095
+General government final consumption expenditure (% of GDP),NE.CON.GOVT.ZS,South Africa,ZAF,2010.0,20.2296379063367,4,0,19.439437789770533,0.7902001165661652
+General government final consumption expenditure (% of GDP),NE.CON.GOVT.ZS,Brazil,BRA,2011.0,18.6692612000646,0,0,19.765682788492256,1.0964215884276562
+General government final consumption expenditure (% of GDP),NE.CON.GOVT.ZS,China,CHN,2011.0,15.2388643300142,1,0,14.023329120889962,1.2155352091242388
+General government final consumption expenditure (% of GDP),NE.CON.GOVT.ZS,India,IND,2011.0,11.0844572125301,2,0,12.052689006181565,0.968231793651464
+General government final consumption expenditure (% of GDP),NE.CON.GOVT.ZS,Russian Federation,RUS,2011.0,17.6255115280966,3,0,17.132236794407767,0.4932747336888319
+General government final consumption expenditure (% of GDP),NE.CON.GOVT.ZS,South Africa,ZAF,2011.0,19.8622402747083,4,0,19.52327490766293,0.3389653670453683
+General government final consumption expenditure (% of GDP),NE.CON.GOVT.ZS,Brazil,BRA,2012.0,18.530103265791,0,0,19.81176746904882,1.2816642032578223
+General government final consumption expenditure (% of GDP),NE.CON.GOVT.ZS,China,CHN,2012.0,15.7560770272383,1,0,13.94942849035223,1.8066485368860707
+General government final consumption expenditure (% of GDP),NE.CON.GOVT.ZS,India,IND,2012.0,10.6838562318127,2,0,12.028936287449588,1.3450800556368883
+General government final consumption expenditure (% of GDP),NE.CON.GOVT.ZS,Russian Federation,RUS,2012.0,17.9672380527257,3,0,17.21233153416971,0.7549065185559911
+General government final consumption expenditure (% of GDP),NE.CON.GOVT.ZS,South Africa,ZAF,2012.0,20.2599283801432,4,0,19.644482976395075,0.6154454037481258
+General government final consumption expenditure (% of GDP),NE.CON.GOVT.ZS,Brazil,BRA,2013.0,18.8924602451901,0,0,19.8655213661537,0.9730611209635995
+General government final consumption expenditure (% of GDP),NE.CON.GOVT.ZS,China,CHN,2013.0,15.8840166804112,1,0,13.894279562125966,1.989737118285234
+General government final consumption expenditure (% of GDP),NE.CON.GOVT.ZS,India,IND,2013.0,10.2951601419598,2,0,12.033702662634553,1.7385425206747538
+General government final consumption expenditure (% of GDP),NE.CON.GOVT.ZS,Russian Federation,RUS,2013.0,18.675302148229,3,0,17.329397665296383,1.3459044829326174
+General government final consumption expenditure (% of GDP),NE.CON.GOVT.ZS,South Africa,ZAF,2013.0,20.5749803428665,4,0,19.809799639782053,0.7651807030844466
+General government final consumption expenditure (% of GDP),NE.CON.GOVT.ZS,Brazil,BRA,2014.0,19.1535387119431,0,0,19.93179077880266,0.7782520668595616
+General government final consumption expenditure (% of GDP),NE.CON.GOVT.ZS,China,CHN,2014.0,15.8170447635049,1,0,13.863286378197866,1.953758385307033
+General government final consumption expenditure (% of GDP),NE.CON.GOVT.ZS,India,IND,2014.0,10.4408568081213,2,0,12.072949916714071,1.6320931085927715
+General government final consumption expenditure (% of GDP),NE.CON.GOVT.ZS,Russian Federation,RUS,2014.0,18.0273313931418,3,0,17.489954715756323,0.5373766773854776
+General government final consumption expenditure (% of GDP),NE.CON.GOVT.ZS,South Africa,ZAF,2014.0,20.7956773256411,4,0,20.02630216878332,0.7693751568577802
+General government final consumption expenditure (% of GDP),NE.CON.GOVT.ZS,Brazil,BRA,2015.0,19.7768366354575,0,0,20.015761633135845,0.23892499767834607
+General government final consumption expenditure (% of GDP),NE.CON.GOVT.ZS,China,CHN,2015.0,16.2178871983523,1,0,13.862192607698987,2.3556945906533144
+General government final consumption expenditure (% of GDP),NE.CON.GOVT.ZS,India,IND,2015.0,10.4282906931787,2,0,12.152979461810123,1.724688768631422
+General government final consumption expenditure (% of GDP),NE.CON.GOVT.ZS,Russian Federation,RUS,2015.0,17.7653892166562,3,0,17.700861840662412,0.06452737599378722
+General government final consumption expenditure (% of GDP),NE.CON.GOVT.ZS,South Africa,ZAF,2015.0,20.4543883232211,4,0,20.301407461502677,0.1529808617184223
+General government final consumption expenditure (% of GDP),NE.CON.GOVT.ZS,Brazil,BRA,2016.0,20.3792974302828,0,0,20.12295948243776,0.25633794784504005
+General government final consumption expenditure (% of GDP),NE.CON.GOVT.ZS,China,CHN,2016.0,16.3637546736574,1,0,13.897081546904744,2.4666731267526565
+General government final consumption expenditure (% of GDP),NE.CON.GOVT.ZS,India,IND,2016.0,10.3085480846713,2,0,12.280432337189037,1.9718842525177376
+General government final consumption expenditure (% of GDP),NE.CON.GOVT.ZS,Russian Federation,RUS,2016.0,18.4659193773134,3,0,17.969317822271908,0.4966015550414937
+General government final consumption expenditure (% of GDP),NE.CON.GOVT.ZS,South Africa,ZAF,2016.0,20.7919826751639,4,0,20.642872043188294,0.14911063197560637
+General government final consumption expenditure (% of GDP),NE.CON.GOVT.ZS,Brazil,BRA,2017.0,20.1685198605749,0,0,20.259249507137266,0.09072964656236593
+General government final consumption expenditure (% of GDP),NE.CON.GOVT.ZS,China,CHN,2017.0,16.3248631691133,1,0,13.974376119234925,2.3504870498783745
+General government final consumption expenditure (% of GDP),NE.CON.GOVT.ZS,India,IND,2017.0,10.7502858383453,2,0,12.462289209261517,1.7120033709162161
+General government final consumption expenditure (% of GDP),NE.CON.GOVT.ZS,Russian Federation,RUS,2017.0,18.2168086477823,3,0,18.30286106998643,0.0860524222041299
+General government final consumption expenditure (% of GDP),NE.CON.GOVT.ZS,South Africa,ZAF,2017.0,20.7990022303264,4,0,21.058792066232716,0.25978983590631444
+General government final consumption expenditure (% of GDP),NE.CON.GOVT.ZS,Brazil,BRA,2018.0,20.0849130898821,0,0,20.430836514807588,0.34592342492548767
+General government final consumption expenditure (% of GDP),NE.CON.GOVT.ZS,China,CHN,2018.0,16.5358088663413,1,0,14.10083887525367,2.4349699910876286
+General government final consumption expenditure (% of GDP),NE.CON.GOVT.ZS,India,IND,2018.0,11.0917110470098,2,0,12.705870371582623,1.6141593245728227
+General government final consumption expenditure (% of GDP),NE.CON.GOVT.ZS,Russian Federation,RUS,2018.0,17.5803023236254,3,0,18.709369620351957,1.1290672967265571
+General government final consumption expenditure (% of GDP),NE.CON.GOVT.ZS,South Africa,ZAF,2018.0,21.2822424100294,4,0,21.557603310172826,0.2753609001434256
+General government final consumption expenditure (% of GDP),NE.CON.GOVT.ZS,Brazil,BRA,2019.0,20.2825655903537,0,0,20.644264940166316,0.36169934981261775
+General government final consumption expenditure (% of GDP),NE.CON.GOVT.ZS,China,CHN,2019.0,16.83843,1,0,14.283571992669486,2.5548580073305125
+General government final consumption expenditure (% of GDP),NE.CON.GOVT.ZS,India,IND,2019.0,11.767825524436,2,0,13.018835744851785,1.2510102204157842
+General government final consumption expenditure (% of GDP),NE.CON.GOVT.ZS,Russian Federation,RUS,2019.0,18.3029657570782,3,0,19.197061137058828,0.8940953799806266
+General government final consumption expenditure (% of GDP),NE.CON.GOVT.ZS,South Africa,ZAF,2019.0,21.2957368984524,4,0,22.148081181689893,0.8523442832374926
